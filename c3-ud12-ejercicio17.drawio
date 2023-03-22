@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-22T09:16:17.906Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="Yx_gKyDBr0Nm3sIqQ7Tu" version="21.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-22T09:24:39.624Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="s_XvyEeVF49S2tgWkJWi" version="21.0.8" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="2214" dy="1898" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="2454" dy="1898" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -630,7 +630,7 @@
             <mxPoint x="-890" y="90" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_Jy42UTALHVmoyWn2Xl9-47" value="1,1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" vertex="1" connectable="0" parent="_Jy42UTALHVmoyWn2Xl9-46">
+        <mxCell id="_Jy42UTALHVmoyWn2Xl9-47" value="n,1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" vertex="1" connectable="0" parent="_Jy42UTALHVmoyWn2Xl9-46">
           <mxGeometry x="0.1667" y="-3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -658,6 +658,21 @@
         <mxCell id="_Jy42UTALHVmoyWn2Xl9-56" value="0,1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" vertex="1" connectable="0" parent="_Jy42UTALHVmoyWn2Xl9-54">
           <mxGeometry x="-0.1603" y="-4" relative="1" as="geometry">
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_Jy42UTALHVmoyWn2Xl9-57" value="Atributos" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-707" y="142" width="190" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="_Jy42UTALHVmoyWn2Xl9-58" value="fecha_inicio date NOT_NULL" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="_Jy42UTALHVmoyWn2Xl9-57">
+          <mxGeometry y="26" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_Jy42UTALHVmoyWn2Xl9-59" value="fecha_fin date" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="_Jy42UTALHVmoyWn2Xl9-57">
+          <mxGeometry y="56" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_Jy42UTALHVmoyWn2Xl9-62" value="" style="endArrow=none;html=1;rounded=0;exitX=0.481;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_Jy42UTALHVmoyWn2Xl9-59" target="_Jy42UTALHVmoyWn2Xl9-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-530" y="240" as="sourcePoint" />
+            <mxPoint x="-370" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
