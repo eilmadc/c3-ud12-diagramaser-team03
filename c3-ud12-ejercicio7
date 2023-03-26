@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-26T21:15:59.610Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="f7KB8NzhrDjyTckJPzjr" version="21.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-26T22:47:38.488Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="t9Lc4f2WmK7H-T5y0-eF" version="21.1.0" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="3849" dy="2196" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="3295" dy="1869" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -24,15 +24,15 @@
             <mxPoint y="-20" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AbRiuGp0LwHz6HfBDMzz-10" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERone;rounded=1;labelBackgroundColor=none;fontColor=default;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endFill=0;" edge="1" parent="1" source="AbRiuGp0LwHz6HfBDMzz-3" target="AbRiuGp0LwHz6HfBDMzz-62">
+        <mxCell id="AbRiuGp0LwHz6HfBDMzz-10" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERone;rounded=1;labelBackgroundColor=none;fontColor=default;endFill=0;" edge="1" parent="1" target="AbRiuGp0LwHz6HfBDMzz-62">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="577" y="614" as="sourcePoint" />
+            <mxPoint x="838" y="331" as="sourcePoint" />
             <mxPoint x="282" y="712" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="AbRiuGp0LwHz6HfBDMzz-11" value="1,1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=1;labelBackgroundColor=none;fontSize=15;" vertex="1" connectable="0" parent="AbRiuGp0LwHz6HfBDMzz-10">
           <mxGeometry x="0.1891" y="2" relative="1" as="geometry">
-            <mxPoint x="3" y="16" as="offset" />
+            <mxPoint x="14" y="16" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="AbRiuGp0LwHz6HfBDMzz-12" value="pertenece" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;rounded=1;labelBackgroundColor=none;" vertex="1" parent="1">
@@ -787,6 +787,20 @@
         <mxCell id="AbRiuGp0LwHz6HfBDMzz-197" value="n,1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=1;labelBackgroundColor=none;fontSize=15;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-85" y="832" as="geometry">
             <mxPoint x="62" y="9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AbRiuGp0LwHz6HfBDMzz-198" value="contiene" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;rounded=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="720" y="302" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AbRiuGp0LwHz6HfBDMzz-199" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERone;rounded=1;labelBackgroundColor=none;fontColor=default;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="AbRiuGp0LwHz6HfBDMzz-152" target="AbRiuGp0LwHz6HfBDMzz-198">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="848" y="341" as="sourcePoint" />
+            <mxPoint x="974" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AbRiuGp0LwHz6HfBDMzz-200" value="1,1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=1;labelBackgroundColor=none;fontSize=15;" vertex="1" connectable="0" parent="AbRiuGp0LwHz6HfBDMzz-199">
+          <mxGeometry x="0.1891" y="2" relative="1" as="geometry">
+            <mxPoint x="3" y="16" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
