@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-26T19:52:53.896Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="c4sXwICpNinuBNP3QrMH" version="21.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-26T19:55:42.923Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="GfNPy6pm-ts9OF8mZK3m" version="21.1.0" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="2360" dy="1554" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -190,8 +190,8 @@
             <mxRectangle width="180" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="r3g8-km3CevfZLrHK_FC-47" value="Ejercicio 4. GUERRAS" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Lucida Console;fontSize=22;labelBackgroundColor=none;fillColor=#76608a;strokeColor=#432D57;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="110" y="-155" width="300" height="90" as="geometry" />
+        <mxCell id="r3g8-km3CevfZLrHK_FC-47" value="Ejercicio 4. GUERRAS" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=25;labelBackgroundColor=none;fillColor=#76608a;strokeColor=#432D57;fontColor=#ffffff;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="57" y="-152" width="406" height="90" as="geometry" />
         </mxCell>
         <mxCell id="r3g8-km3CevfZLrHK_FC-48" value="Participa" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;rounded=1;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="487" y="514" width="120" height="60" as="geometry" />
