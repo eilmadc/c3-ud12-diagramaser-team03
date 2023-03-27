@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-27T20:23:32.337Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="PvNLmB0cz93bTjiHuQgo" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-27T20:23:53.477Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="C9kp5sWv5KZV_6wgzRqU" version="21.1.1" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1772" dy="1208" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -263,7 +263,7 @@
         <mxCell id="Uf3MDJ5ZrrljKTRA4VQc-1" value="&lt;font face=&quot;Helvetica&quot;&gt;&lt;b&gt;LIGAS&lt;/b&gt;(&lt;u&gt;nombre_liga &lt;/u&gt;PK)&lt;br&gt;&lt;b&gt;TEMPORADAS&lt;/b&gt;(&lt;u&gt;temporada_año &lt;/u&gt;PK, nombre_liga FK)&lt;br&gt;&lt;b&gt;PARTIDOS&lt;/b&gt;(&lt;u&gt;cod_partido &lt;/u&gt;PK, nombre_equipo1 FK2, nombre_equipo2 FK2, temporada_año campo)&lt;br&gt;&lt;b&gt;EQUIPOS &lt;/b&gt;(&lt;u&gt;nombre_equipo&lt;/u&gt;)&lt;br&gt;&lt;b&gt;JUGADORES &lt;/b&gt;(&lt;u&gt;nombre_jugador &lt;/u&gt;PK, nombre_equipo FK)&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Architects Daughter;rounded=1;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="1011" y="74" width="894" height="132" as="geometry" />
         </mxCell>
-        <mxCell id="_eRRn7KPB85ArX-uvTfg-1" value="&lt;h1&gt;Ejercicio 10.&amp;nbsp;&lt;br&gt;FUTBOL&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="_eRRn7KPB85ArX-uvTfg-1" value="&lt;h1&gt;Ejercicio 10.&amp;nbsp;&lt;br&gt;FUTBOL&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
           <mxGeometry x="-13" y="-167" width="270" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_eRRn7KPB85ArX-uvTfg-2" value="&lt;h1&gt;Modelo E/R&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
