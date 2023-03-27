@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-26T19:56:25.964Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="ogsGSaHvIbCxnT1hoyg4" version="21.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-27T07:21:42.295Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="4GJZ57MNiSHJAnMi0hTj" version="21.1.0" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="2115" dy="1410" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="1772" dy="1208" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -540,10 +540,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fZPPL8DehY5vES9jkG9D-1" value="&lt;h1&gt;Modelo E/R&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="fZPPL8DehY5vES9jkG9D-1" value="&lt;h1&gt;Modelo E/R&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="250" y="60" width="270" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="fZPPL8DehY5vES9jkG9D-2" value="&lt;h1&gt;Modelo Relacional&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="fZPPL8DehY5vES9jkG9D-2" value="&lt;h1&gt;Modelo Relacional&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="1500" y="60" width="284" height="80" as="geometry" />
         </mxCell>
       </root>
